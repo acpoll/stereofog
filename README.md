@@ -546,11 +546,6 @@ If you use the dataset or any of the code in this repository created by us, plea
 }
 ```
 
-# References
-
-* [1]:
-
-
 # Appendix
 
 <details>
