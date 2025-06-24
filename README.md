@@ -536,13 +536,19 @@ The hardware is licensed under the [CERN Open HArdware License v2 - Weakly Recip
 If you use the dataset or any of the code in this repository created by us, please cite the following paper:
 
 ```
-@misc{pollak2023stereofog,
-      title={STEREOFOG -- Computational DeFogging via Image-to-Image Translation on a real-world Dataset}, 
-      author={Anton Pollak and Rajesh Menon},
-      year={2023},
-      eprint={2312.02344},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{Pollak:24,
+author = {Anton Pollak and Rajesh Menon},
+journal = {Opt. Express},
+keywords = {Deep learning; Imaging systems; Imaging techniques; Neural networks; Rayleigh scattering; Three dimensional imaging},
+number = {19},
+pages = {33852--33860},
+publisher = {Optica Publishing Group},
+title = {Image-to-image machine translation enables computational defogging in real-world images},
+volume = {32},
+month = {Sep},
+year = {2024},
+url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-32-19-33852},
+doi = {10.1364/OE.532576},
 }
 ```
 
