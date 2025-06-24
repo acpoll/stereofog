@@ -59,7 +59,6 @@ This repository documents a research project carried out at the [Laboratory for 
     - [Foggy Cityscapes from Uni Tübingen](#foggy-cityscapes-from-uni-tübingen)
     - [Foggy Cityscapes from ETH Zürich](#foggy-cityscapes-from-eth-zürich)
     - [Foggy Carla from Uni Tübingen](#foggy-carla-from-uni-tübingen)
-    - [Foggy KITTI from Uni Tübingen (?)](#foggy-kitti-from-uni-tübingen-)
   - [Collected dataset](#collected-dataset)
   - [pix2pix on dataset](#pix2pix-on-dataset)
   - [Limitations](#limitations)
@@ -444,8 +443,10 @@ Ample information on the training and testing process and their parameters can b
 This GitHub page includes several helper scripts to perform different actions like hyperparameter tuning or epoch visualization.
 
 These are:
+
 Preprocessing:
 - `preprocess_stereofog_dataset.py`
+- 
 Hyperparameter tuning:
 - `hyperparameter_dropoutRate.py`
 - `hyperparameter_GAN.py`
@@ -458,6 +459,7 @@ Hyperparameter tuning:
 - `hyperparameter_normalization.py`
 - `hyperparameter_Res9AndMore.py`
 - `hyperparameter_supertraining.py`
+- 
 Visualization:
 - `plot_model_results.py`
 - `evaluate_model_group.py`
@@ -489,10 +491,10 @@ This dataset was created by the researchers [Georg Volk](https://www.embedded.un
 
 ## Collected dataset
 
-*description & details of the collected dataset*
-## pix2pix on dataset
+Please refer to the description of the dataset in section 2 (Experiments) of the paper.
+## Results
 
-*ML results on dataset*
+Please refer to the description of the results in section 3 (Results) of the paper.
 
 ## Limitations
 ### Overexposure
